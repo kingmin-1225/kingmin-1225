@@ -1,4 +1,7 @@
-## Hi there 👋
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesserpanda&show_icons=true&theme=dark)
+
+
+
 
 <!--
 **lesserpanda1225/lesserpanda1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
