@@ -1,6 +1,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lesserpanda)](https://solved.ac/lesserpanda)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingmin-1225&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingmin-1225&show_icons=true&theme=dark)
 <!--
 **lesserpanda1225/lesserpanda1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
