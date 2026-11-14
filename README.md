@@ -1,10 +1,9 @@
 ### Min Wang
 
-Undergraduate studying on-device AI inference optimization.
-I learn by putting models on edge devices, measuring why they are slow, and making them faster.
+Undergraduate studying on efficient AI inference, from model compression down to GPU kernels.
 
 - 🎓 Hanyang University ERICA, Artificial Intelligence, 3rd year
-- 🔬 Interests: quantization (PTQ, QAT, low-bit LLMs), inference runtimes (TensorRT, llama.cpp), CUDA kernel profiling
+- 🔬 Interests: quantization (PTQ, QAT, low-bit LLMs, KV Cache), inference runtimes, CUDA kernel profiling
 - 📫 kingmin1225@hanyang.ac.kr
 
 #### Projects
