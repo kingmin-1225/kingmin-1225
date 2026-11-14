@@ -1,7 +1,7 @@
 ### Min Wang
 
-Undergraduate working on on-device AI inference optimization.
-I put models on edge devices, measure why they are slow, and make them faster.
+Undergraduate studying on-device AI inference optimization.
+I learn by putting models on edge devices, measuring why they are slow, and making them faster.
 
 - 🎓 Hanyang University ERICA, Artificial Intelligence, 3rd year
 - 🔬 Interests: quantization (PTQ, QAT, low-bit LLMs), inference runtimes (TensorRT, llama.cpp), CUDA kernel profiling
