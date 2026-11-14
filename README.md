@@ -3,7 +3,7 @@
 Undergraduate studying on efficient AI inference, from model compression down to GPU kernels.
 
 - 🎓 Hanyang University ERICA, Artificial Intelligence, 3rd year
-- 🔬 Interests: quantization (PTQ, QAT, low-bit LLMs, KV Cache), inference runtimes, CUDA kernel profiling
+- 🔬 Interests: quantization (PTQ, QAT, low-bit LLMs, KV Cache), CUDA kernel profiling
 - 📫 kingmin1225@hanyang.ac.kr
 
 #### Projects
